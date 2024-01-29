@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300;400;500;700&family=Baloo+2:wght@500;600;700&family=Climate+Crisis&display=swap');
+@import url('https://fonts.cdnfonts.com/css/kg-red-hands');
+@import url("https://use.typekit.net/ojd6mpx.css");
+
+.footer {
+
+    background-color: hsl(216, 52%, 58%);
+    display: flex;
+    padding: 10px;
+}
+
+.footer p {
+    color: #FFEFD3;
+}
